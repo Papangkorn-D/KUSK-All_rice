@@ -1,3 +1,3 @@
 # KUSK-All_rice
 line bot AI for rice program server
-\nchange branches to view project
+\n change branches to view project
